@@ -63,5 +63,9 @@
 
 - **Activity Diagram 2:** Setting Up Automated Savings  
   - **User Story:** _As a saver, I want to set up automatic savings contributions so that I can build my savings effortlessly_   
+  ![Setting Up Auto-Savings](https://github.com/NawabMahmood/specification-exercise/blob/Subbranch/SettingUpAutomatedSavings.png)
       
 
+## **Clickable Prototype**  
+
+- **Prototype Link:** [https://www.figma.com/proto/rBusAmZ6k9rjP3ll2RnR8t/Team-Nawab-Mahmood-(NM3749)-Project?node-id=3-10&p=f&t=kLQXorE1suFxUlXj-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A10&show-proto-sidebar=1]  
