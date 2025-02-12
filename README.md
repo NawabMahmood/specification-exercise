@@ -57,9 +57,10 @@
 ---
 
 ## **Diagrams**  
-- **Activity Diagram 1:** Setting a Budget and Tracking Expenses  
+- **Activity Diagram 1:** Setting Up Loan Repayments and Tracking 
   - **User Story:** _As a student managing loans, I want to track my payments and set repayment goals so that I can stay on top of my debt and plan my finances effectively._
-    
+    ![Tracking Loan Payments](https://github.com/NawabMahmood/specification-exercise/blob/Subbranch/Tracking%20Loan%20Payments.png)
+
 
 - **Activity Diagram 2:** Setting Up Automated Savings  
   - **User Story:** _As a saver, I want to set up automatic savings contributions so that I can build my savings effortlessly_   
